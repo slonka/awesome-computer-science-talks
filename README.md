@@ -5,7 +5,6 @@ Web:
 * [How to destroy the web](https://www.youtube.com/watch?v=OXX3PwJhqUY) - Bruce Lawson
 * [Critical rendering path](https://www.youtube.com/watch?v=PkOBnYxqj3k) - Ilya Grigorik
 
-
 Software development:
 * [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) - Jack Diederich
 * [Sometimes a Controller is Just a Controller](https://www.youtube.com/watch?v=MSgR-hJjdTo) - Justin Searls
