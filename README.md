@@ -1,5 +1,5 @@
 # Awesome talks
-A list of awesome talks related to computer science.
+A list of awesome talks related to computer science that everyone should watch.
 
 Web:
 * [How to destroy the web](https://www.youtube.com/watch?v=OXX3PwJhqUY) - Bruce Lawson
