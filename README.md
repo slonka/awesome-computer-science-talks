@@ -27,8 +27,9 @@ Community:
 
 Fun:
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) - Scott Hanselman
-* [Investigating python wats](https://www.youtube.com/watch?v=sH4XF6pKKmk) - Amy Hanlon -
-* [Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat) - Wat
+* [Investigating python wats](https://www.youtube.com/watch?v=sH4XF6pKKmk) - Amy Hanlon
+* [Wat](https://www.destroyallsoftware.com/talks/wat) - Gary Bernhardt
+* [Worst. Ideas. Ever.](https://www.youtube.com/watch?v=sLb7Uz9KOqc) - Ryan Davis, Aaron Patterson
 
 Miscancellous:
 * [Keynote - Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE) - Jacob Kaplan-Moss
