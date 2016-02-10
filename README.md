@@ -25,6 +25,9 @@ Productivity:
 Community:
 * [The Social Coding Contract](https://www.youtube.com/watch?v=e_-qV8waPVM) - Justin Searls
 
+Security:
+* [DEF CON 23 - Drive it like you Hacked it: New Attacks and Tools to Wireles](https://www.youtube.com/watch?v=UNgvShN4USU) - Samy Kamkar
+
 Fun:
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) - Scott Hanselman
 * [Investigating python wats](https://www.youtube.com/watch?v=sH4XF6pKKmk) - Amy Hanlon
