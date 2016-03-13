@@ -16,6 +16,7 @@ Software development:
 
 Linux:
 * [Linux Sucks 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) - Bryan Lunduke
+* [Linux Sucks 2016](https://www.youtube.com/watch?v=WipM3SAYqK4) - Bryan Lunduke
 * [The Unix Chainsaw](https://www.youtube.com/watch?v=sCZJblyT_XM) - Gary Bernhardt
 * [Xiki: the Rubyfied Next-Generation Shell](https://www.youtube.com/watch?v=QqOrQN0bxNE) - Craig Muth
 
