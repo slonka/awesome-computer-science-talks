@@ -36,6 +36,7 @@ Fun:
 * [Worst. Ideas. Ever.](https://www.youtube.com/watch?v=sLb7Uz9KOqc) - Ryan Davis, Aaron Patterson
 
 Miscancellous:
+* [The Error of Our Ways](https://www.youtube.com/watch?v=IiGXq3yY70o) - Kevlin Henney
 * [Keynote - Pycon 2015](https://www.youtube.com/watch?v=hIJdFxYlEKE) - Jacob Kaplan-Moss
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) - Chris Williams
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) - Joe Armstrong
