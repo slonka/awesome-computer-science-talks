@@ -6,6 +6,7 @@ Web:
 * [Critical rendering path](https://www.youtube.com/watch?v=PkOBnYxqj3k) - Ilya Grigorik
 
 Software development:
+* [RubyConf 2016 - Lies, Damned Lies, and Substrings](https://www.youtube.com/watch?v=piLmdh3Am3o) - Haseeb Qureshi
 * [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) - Jack Diederich
 * [Sometimes a Controller is Just a Controller](https://www.youtube.com/watch?v=MSgR-hJjdTo) - Justin Searls
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) - Sandi Metz
